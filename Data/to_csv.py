@@ -17,9 +17,9 @@ import logging.handlers
 
 
 # put the path to the input file
-input_file_path = r"\\MYCLOUDPR4100\Public\reddit\subreddits\intel_comments.zst"
+input_file_path = r"Harvard_submissions.zst"
 # put the path to the output file, with the csv extension
-output_file_path = r"\\MYCLOUDPR4100\Public\intel_comments.csv"
+output_file_path = r"C:\Users\chris\OneDrive\Desktop\Github\RU_vs_Princeton_reddit\Data\data\havard_submission.csv"
 # if you want a custom set of fields, put them in the following list. If you leave it empty the script will use a default set of fields
 fields = []
 
