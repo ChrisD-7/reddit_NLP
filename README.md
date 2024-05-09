@@ -1,14 +1,14 @@
-### GitHub Repository README for Dual Subreddit Analysis Project
+### Dual Subreddit Analysis: A comparative study of Rutgers and UPenn online communities 
 
 #### Project Overview
 This project, titled "Dual Subreddit Analysis: A Comparative Study of Rutgers and UPenn Online Communities," leverages advanced machine learning (ML) and natural language processing (NLP) techniques to analyze discussions on the Rutgers and UPenn Reddit subreddits. By examining posts from these subreddits, we aim to understand how university communities articulate their experiences online, providing insights into the digital reflections of student life and community dynamics.
 
 #### Repository Structure
-```
-/dataset         - Contains the cleaned and processed dataset used for the analysis.
+/dataset         - Contains the cleaned and processed dataset used for the analysis. Can be found [here](!https://drive.google.com/drive/folders/1Hc_rhzceMhvnHLaaIwVXCJQF-DviaZae?usp=sharing)
+
 /scripts         - Includes all Python scripts used for data cleaning, processing, and ML models.
+
 /reports         - Detailed reports and analysis outputs.
-```
 
 #### Data Collection
 The dataset comprises historical data from the Rutgers and UPenn subreddits spanning from 2010 to 2023, sourced through the Pushshift API. It includes comprehensive metadata on each post, such as timestamps, titles, and scores, allowing us to analyze trends and patterns over a significant period.
