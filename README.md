@@ -4,7 +4,7 @@
 This project, titled "Dual Subreddit Analysis: A Comparative Study of Rutgers and UPenn Online Communities," leverages advanced machine learning (ML) and natural language processing (NLP) techniques to analyze discussions on the Rutgers and UPenn Reddit subreddits. By examining posts from these subreddits, we aim to understand how university communities articulate their experiences online, providing insights into the digital reflections of student life and community dynamics.
 
 #### Repository Structure
-* dataset         - Contains the cleaned and processed dataset used for the analysis. Can be found [here](!https://drive.google.com/drive/folders/1Hc_rhzceMhvnHLaaIwVXCJQF-DviaZae?usp=sharing)
+* dataset         - Contains the cleaned and processed dataset used for the analysis. Can be found [here](https://drive.google.com/drive/folders/1Hc_rhzceMhvnHLaaIwVXCJQF-DviaZae?usp=sharing)
 * scripts         - Includes all Python scripts used for data cleaning, processing, and ML models.
 * reports         - Detailed reports and analysis outputs.
 
@@ -47,4 +47,4 @@ Contributions to the project are welcome. Please fork the repository, make your 
 #### Acknowledgments
 - Pushshift API for providing access to historical Reddit data.
 - Rutgers and UPenn communities for their vibrant discussions which made this analysis possible.
-- [Training a Text Classifier Using Embeddings](!https://ai.google.dev/gemini-api/tutorials/text_classifier_embeddings)
+- [Training a Text Classifier Using Embeddings](https://ai.google.dev/gemini-api/tutorials/text_classifier_embeddings)
