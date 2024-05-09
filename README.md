@@ -47,3 +47,6 @@ Contributions to the project are welcome. Please fork the repository, make your 
 #### Acknowledgments
 - Pushshift API for providing access to historical Reddit data.
 - Rutgers and UPenn communities for their vibrant discussions which made this analysis possible.
+
+
+![RUvsUPENN](report/images/reddit_NLP.gif)
