@@ -47,3 +47,4 @@ Contributions to the project are welcome. Please fork the repository, make your 
 #### Acknowledgments
 - Pushshift API for providing access to historical Reddit data.
 - Rutgers and UPenn communities for their vibrant discussions which made this analysis possible.
+- [Training a Text Classifier Using Embeddings](!https://ai.google.dev/gemini-api/tutorials/text_classifier_embeddings)
